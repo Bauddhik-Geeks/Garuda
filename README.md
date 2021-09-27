@@ -19,7 +19,7 @@ It is a combination of Network Port Scanner and Honeypot.
 * [+] Easy for Beginners !
 
 ## How to use :
-* git clone https://github.com/EFFLUX110/garuda.git
+* git clone https://github.com/Bauddhik-Geeks/Garuda.git
 * cd garuda
 * python3 garuda.py
 
