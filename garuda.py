@@ -14,7 +14,7 @@ msg=(
     "                                .--'``  '._      - '   .                                        \n"
     "   2) HoneyPot                   `""'-.    `---'    ,                                           \n"
     "                         ''--..__      `\"                                                      \n"
-    "                                 ``''---'`\      .'                                             \n"
+    "   3) Exit                              ``''---'`\      .'                                             \n"
     "                                           `'. '                                                \n"
     "                                             `'.                                                \n"
 )
@@ -34,7 +34,7 @@ print(msg)
 if __name__ == "__main__":
     while True:
         menu=int(input("Choose      : "))
-        if menu in range(1,3):
+        if menu in range(1,4):
             break
     if menu==1:
         import scan
@@ -42,3 +42,6 @@ if __name__ == "__main__":
     elif menu==2:
         import Honeypot
         Honeypot.honey()
+    elif menu==3:
+        quit()
+        
