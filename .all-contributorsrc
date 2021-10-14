@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Rajkumar-stackcoder",
+      "name": "Rajkumar Khistariya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83064473?v=4",
+      "profile": "http://In process",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Garuda",
+  "projectOwner": "Bauddhik-Geeks",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
